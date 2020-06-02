@@ -1,2 +1,1 @@
-# lab06
-Copy of lab06 from CS32
+# lab06_JiahaoZhu11
